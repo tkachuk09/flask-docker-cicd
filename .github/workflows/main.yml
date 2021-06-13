@@ -4,7 +4,7 @@ env:
    EB_APPLICATION_NAME       : "flask"
    EB_ENVIRONMENT_NAME       : "Flask-env"
    DEPLOY_PACKAGE_NAME       : "flask.zip"
-   AWS_REGION_NAME           : "eu-north-1"
+   AWS_REGION_NAME           : "us-west-2"
 
 
 on:
