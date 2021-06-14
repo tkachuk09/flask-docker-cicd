@@ -1,9 +1,9 @@
 name: CI_CD_pipeline
 env:
    EB_PACKAGE_S3_BUCKET_NAME : "deployeveryday"
-   EB_APPLICATION_NAME       : "flask"
+   EB_APPLICATION_NAME       : "flask_1"
    EB_ENVIRONMENT_NAME       : "Flask-env"
-   DEPLOY_PACKAGE_NAME       : "flask.zip"
+   DEPLOY_PACKAGE_NAME       : "flask_1.zip"
    AWS_REGION_NAME           : "us-west-2"
 
 
